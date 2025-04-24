@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: Dystopia
+description: "A colorful, dark mode, jekyll theme "
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
