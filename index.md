@@ -1,4 +1,7 @@
 ---
+title: Home page
 ---
 
-# tonic-starter
+# Dystopia
+
+*Dystopia* is a colorful, dark mode jekyll theme 
